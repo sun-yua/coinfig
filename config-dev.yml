@@ -1,7 +1,4 @@
-server:
-  port: 8006
-spring:
-  application:
-    name: dev
 eureka:
   client: server
+version:
+  client: test
