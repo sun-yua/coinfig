@@ -4,4 +4,4 @@ spring:
   application:
     name: dev
 server:
-  test: server.test
+  test: server
