@@ -1,4 +1,4 @@
 eureka:
-  client: server1
+  client: server2
 version:
   client: test
